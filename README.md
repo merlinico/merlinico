@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nicolas. I freshly graduated from a master's degree in NLP @ Paris Diderot University. 
+- 👀 I’m interested in all Machine Learning, specially NLP and CV.
+- 🌱 I’m currently learning Game & Web Dev
