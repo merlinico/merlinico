@@ -27,5 +27,11 @@
 
 ---
 
-### ⚡ Tech Stack & Tools
-`Python` | `PyTorch` | `HuggingFace` | `MLOps` | `Unity/C#` | `Agentic Workflows`
+### 🛠️ Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **NLP & LLMs** | `PyTorch` • `HuggingFace Transformers` • `OpenAI SDK` • `vLLM` |
+| **Agentic Workflows** | `LangGraph` • `CrewAI` • `PydanticAI` • `MCP` • `AutoGen` |
+| **MLOps & Infra** | `Docker` • `Kubernetes` • `MLflow` • `LangSmith` • `BentoML` |
+| **Development** | `Python` • `FastAPI` • `C# / Unity DOTS` • `PostgreSQL` • `Golang` |
